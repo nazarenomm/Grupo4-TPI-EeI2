@@ -1,3 +1,5 @@
+<img src="foto.png" width="200" alt="Logo de Estadística Bayesiana">
+
 # TP Integrador - Estadística e Inferencia II (2do Cuatrimestre 2025)
 
 Alumnos
