@@ -1,6 +1,9 @@
 # TP Integrador - Estadística e Inferencia II (2do Cuatrimestre 2025)
+
 Alumnos
+
 Magallanes Nazareno
+
 Turri Bautista
 
 Este repositorio contiene los archivos correspondientes al trabajo práctico integrador de la materia **Estadística e Inferencia II**, cursada durante el segundo cuatrimestre de 2025.
